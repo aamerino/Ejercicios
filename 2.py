@@ -10,6 +10,6 @@ area = PI * radio ** 2
 
 print("Radio Introducido " + str(radio))
 
-print ("Longitud " + str(longitud))
+print("Longitud " + str(longitud))
 
-print ("Area " + str(area))
+print("Area " + str(area))
